@@ -77,6 +77,5 @@ List of AI tools for various tasks. This list is (obviously) not comprehensive.
 
 | Name       | URL                                            | Description                                             |
 | ---------- | ---------------------------------------------- | ------------------------------------------------------- |
-
 | OpenRouter | [https://openrouter.ai](https://openrouter.ai) | Aggregator for multiple AI models, free and paid tiers. |
 
