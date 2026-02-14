@@ -12,6 +12,7 @@ List of AI tools for various tasks. This list is (obviously) not comprehensive.
 | DeepSeek | [deepseek.com](https://deepseek.com) | AI assistant with strong coding and reasoning capabilities. |
 | Google Gemini | [gemini.google.com](https://gemini.google.com) | Google's conversational AI assistant. |
 | Grok (xAI) | [x.ai](https://x.ai) | Elon Musk’s AI assistant for real‑time data and trending topics. |
+| Open Claw| [openclaw.ai](https://openclaw.ai) | Clears your inbox, sends emails, manages your calendar, checks you in for flights. All from WhatsApp, Telegram, or any chat app you already use. |
 | Perplexity | [perplexity.ai](https://perplexity.ai) | AI‑powered search engine with conversational answers. |
 | Pi | [heypi.com](https://heypi.com) | Personal AI companion focused on emotional intelligence. |
 | Poe.com | [https://poe.com/](https://poe.com/) | Offers free daily credits for premium models like Claude 4 or o4‑mini. |
