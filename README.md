@@ -166,6 +166,17 @@ List of AI tools for various tasks. This list is (obviously) not comprehensive.
 | Resemble.ai | [resemble.ai](https://resemble.ai) | Voice cloning and synthesis for custom AI voices. |
 | Voicemod | [voicemod.net](https://voicemod.net) | Real‑time voice changer and soundboard powered by AI. |
 
+## 🔎 AI Search Visibility (GEO/AEO)
+
+Tools that measure whether AI assistants recommend a brand or product, rather than where it ranks on Google.
+
+| Name | URL | Description |
+| ---------- | ---------------------------------------------- | ------------------------------------------------------- |
+| AISO Tools | [aisotools.com](https://aisotools.com) | Free scan showing whether ChatGPT recommends your tool, with share-of-voice against the competitors it names instead. |
+| Otterly.AI | [otterly.ai](https://otterly.ai) | Tracks brand mentions and link citations in AI search results. |
+| Peec AI | [peec.ai](https://peec.ai) | AI-search analytics for marketing teams — visibility, sentiment, and competitor comparison. |
+| Profound | [tryprofound.com](https://www.tryprofound.com) | Enterprise answer-engine analytics across ChatGPT, Perplexity, and Copilot. |
+
 ## 🛠️ Other AI Tools And Backends
 
 | Name | URL | Description |
