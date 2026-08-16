@@ -65,6 +65,7 @@ https://deepai.org/
 https://github.com/features/copilot
 https://github.com/ggml-org/llama.cpp
 https://github.com/SciSharp/LLamaSharp
+https://github.com/vostride/agent-qa
 https://grammarly.com
 https://groq.com
 https://heygen.com
