@@ -118,6 +118,7 @@ List of AI tools for various tasks. This list is (obviously) not comprehensive.
 | HeyGen | [heygen.com](https://heygen.com) | AI-powered talking avatar and video generation from text or scripts. |
 | Pika | [pika.art](https://pika.art) | AI video generation from text prompts and images. |
 | Synthesia | [synthesia.io](https://synthesia.io) | Create professional AI videos with digital avatars – no cameras or actors needed. |
+| videos.social | [videos.social](https://videos.social/?utm_source=jamiefutch-ai-tools-list&utm_medium=directory&utm_campaign=listing-wave-d) | Turn blogs, PDFs, and prompts into editable faceless videos. |
 
 ## 🎵 AI Music & Sound Generation
 
