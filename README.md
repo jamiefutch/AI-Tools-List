@@ -26,6 +26,7 @@ List of AI tools for various tasks. This list is (obviously) not comprehensive.
 | Name | URL | Description |
 | -------------------------- | --------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | Adalo | [adalo.com](https://adalo.com) | No‑code app builder with AI‑powered templates. |
+| Agent QA | [github.com/vostride/agent-qa](https://github.com/vostride/agent-qa) | Source-available natural-language web and mobile application testing and triage. |
 | Amazon CodeWhisperer | [aws.amazon.com/codewhisperer](https://aws.amazon.com/codewhisperer) | AI coding assistant for AWS developers. |
 | Anyscale | [anyscale.com](https://anyscale.com) | Scalable platform for deploying Python AI apps. |
 | Claude Code | [Claude Code](https://claude.com/product/claude-code) | Work with Claude directly in your terminal. Claude explores your codebase context, answers questions, and make changes. It can even use all your CLI tools. |
