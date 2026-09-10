@@ -135,6 +135,7 @@ List of AI tools for various tasks. This list is (obviously) not comprehensive.
 | Copy.ai | [copy.ai](https://copy.ai) | AI tool for generating marketing and sales copy. |
 | Frase | [frase.io](https://frase.io) | AI content optimization and SEO writing assistant. |
 | Grammarly | [grammarly.com](https://grammarly.com) | AI writing assistant for grammar, tone, and clarity. |
+| ResumeAI | [withresumeai.com](https://withresumeai.com/) | Free ATS checker and AI resume builder with live candidate leaderboard. |
 | Jasper | [jasper.ai](https://jasper.ai) | AI writing assistant for marketing copy, blogs, and more. |
 | Kuki Chat | [kuki.ai](https://kuki.ai) | AI chatbot with personality for entertainment and writing. |
 | Neuroflash | [neuroflash.com](https://neuroflash.com) | AI content generator with tone and SEO control. |
