@@ -52,6 +52,7 @@ List of AI tools for various tasks. This list is (obviously) not comprehensive.
 | Weights & Biases | [wandb.ai](https://wandb.ai) | ML experiment tracking and collaboration tool. |
 | Windsurf | [windsurf.ai](https://windsurf.ai) | AI‑powered code generation and refactoring. |
 | Wolfram Alpha | [wolframalpha.com](https://wolframalpha.com) | Computational knowledge engine with AI‑powered math and science tools. |
+| YYLO | [yylo.dev](https://yylo.dev) | Open-source command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries; each task runs in a dedicated git worktree. |
 | Zeno | [zeno.com](https://zeno.com) | AI assistant for debugging and improving code. |
 
 ## 📚 AI Documentation & Knowledge Tools
