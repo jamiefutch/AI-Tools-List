@@ -141,6 +141,7 @@ List of AI tools for various tasks. This list is (obviously) not comprehensive.
 
 | Name | URL | Description |
 | ---------- | ---------------------------------------------- | ------------------------------------------------------- |
+| AI Tools Radar | [https://aitoolsradar.com](https://aitoolsradar.com) | AI tools directory and industry news platform for discovering, comparing, and tracking AI products. |
 | OpenRouter | [https://openrouter.ai](https://openrouter.ai) | Aggregator for multiple AI models, free and paid tiers. |
 | LmStudio.ai | [https://lmstudio.ai/](https://lmstudio.ai/) | Local environment for running and developing language models. |
 | Kaggle | [https://www.kaggle.com/](https://www.kaggle.com/) | Data science competition & ML dataset platform. |
@@ -150,4 +151,3 @@ List of AI tools for various tasks. This list is (obviously) not comprehensive.
 | LLAMACPP | [https://github.com/ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | LLM inference in C/C++ |
 | LLAMASharp | [https://github.com/SciSharp/LLamaSharp](https://github.com/SciSharp/LLamaSharp) | LLamaSharp is a cross-platform library to run 🦙LLaMA/LLaVA |
 | Z.ai | [z.ai/](https://z.ai/blog/glm-5/) | AI‑powered search and knowledge graph platform. |
-
