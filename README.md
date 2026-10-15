@@ -2,22 +2,24 @@
 
 List of AI tools for various tasks. This list is (obviously) not comprehensive.
 
-## 🤖 General AI Assistants
+## 🤖 General AI
 
 | Name | URL | Description |
 | --------------------- | ------------------------------------------ | ----------------------------------------------------------------------------------------------------- |
 | ChatGPT | [openai.com/chatgpt](https://openai.com/chatgpt) | Conversational AI for natural language understanding and generation. |
+| [Auferet](https://auferet.com) | AI game master that remembers your world: persistent memory for characters, places, and lore you upload; solo or multiplayer, 5e & Pathfinder 2e | — |
 | Claude | [claude.ai](https://claude.ai) | AI assistant by Anthropic focused on helpful and harmless responses. |
 | Copilot (me!) | [copilot.microsoft.com](https://copilot.microsoft.com) | Microsoft’s AI companion for productivity, creativity, and conversation. |
 | DeepSeek | [deepseek.com](https://deepseek.com) | AI assistant with strong coding and reasoning capabilities. |
 | Google Gemini | [gemini.google.com](https://gemini.google.com) | Google's conversational AI assistant. |
 | Grok (xAI) | [x.ai](https://x.ai) | Elon Musk’s AI assistant for real‑time data and trending topics. |
-| Open Claw| [openclaw.ai](https://openclaw.ai) | Clears your inbox, sends emails, manages your calendar, checks you in for flights. All from WhatsApp, Telegram, or any chat app you already use. |
+| Open Claw | [openclaw.ai](https://openclaw.ai) | Clears your inbox, sends emails, manages your calendar, checks you in for flights. All from WhatsApp, Telegram, or any chat app you already use. |
 | Perplexity | [perplexity.ai](https://perplexity.ai) | AI‑powered search engine with conversational answers. |
 | Pi | [heypi.com](https://heypi.com) | Personal AI companion focused on emotional intelligence. |
 | Poe.com | [https://poe.com/](https://poe.com/) | Offers free daily credits for premium models like Claude 4 or o4‑mini. |
 | Replika | [replika.com](https://replika.com) | AI companion for emotional support and conversation. |
 | YouChat | [you.com](https://you.com) | AI chatbot integrated into the You.com search engine. |
+| Z.ai | [z.ai/](https://z.ai/blog/glm-5/) | AI‑powered search and knowledge graph platform. |
 
 ## 🧰 Development Tools
 
@@ -27,13 +29,17 @@ List of AI tools for various tasks. This list is (obviously) not comprehensive.
 | Amazon CodeWhisperer | [aws.amazon.com/codewhisperer](https://aws.amazon.com/codewhisperer) | AI coding assistant for AWS developers. |
 | Anyscale | [anyscale.com](https://anyscale.com) | Scalable platform for deploying Python AI apps. |
 | Claude Code | [Claude Code](https://claude.com/product/claude-code) | Work with Claude directly in your terminal. Claude explores your codebase context, answers questions, and make changes. It can even use all your CLI tools. |
+| CodeRabbit | [coderabbit.ai](https://coderabbit.ai) | AI-powered code review bot providing context-aware feedback on pull requests. |
 | CodiumAI | [codium.ai](https://codium.ai) | AI tool for generating meaningful tests for your code. |
 | Cursor | [cursor.sh](https://cursor.sh) | AI‑powered code editor with natural language support. |
 | GitHub Copilot | [github.com/features/copilot](https://github.com/features/copilot) | AI pair programmer that suggests code in real‑time. |
 | Hugging Face | [huggingface.co](https://huggingface.co) | Open‑source AI models and datasets for developers. |
 | Intel Geti | [geti.intel.com](https://geti.intel.com) | AI platform for training computer vision models. |
+| LLM Studio | [llmstudio.com](https://llmstudio.com) | Platform for training and deploying large language models. |
 | Lobe | [lobe.ai](https://lobe.ai) | Visual tool for building machine learning models without code. |
+| Mabl | [mabl.com](https://mabl.com) | AI-native test automation platform for end-to-end testing and monitoring. |
 | OpenAI Codex | [Open AI Codex](https://openai.com/codex/) | From routine pull requests to your hardest problems, Codex reliably completes tasks end to end, like building features, complex refactors, migrations, and more, powered by OpenAI’s frontier coding models. |
+| OpenCode | [opencode.ai](https://opencode.ai) | The open source AI coding agent |
 | OpenCV AI Kit | [opencv.ai](https://opencv.ai) | Hardware and software platform for computer vision applications. |
 | Qwen3 Coder | [https://qwen.qingyunai.com/](https://qwen.qingyunai.com/) | New coder‑focused model on web by Qwen. |
 | Replit Ghostwriter | [replit.com](https://replit.com) | AI coding assistant built into Replit IDE. |
@@ -42,10 +48,18 @@ List of AI tools for various tasks. This list is (obviously) not comprehensive.
 | Stack AI | [stack-ai.com](https://stack-ai.com) | Build AI workflows without writing code. |
 | Tabnine | [tabnine.com](https://tabnine.com) | AI code completion tool for multiple languages. |
 | TensorFlow | [tensorflow.org](https://tensorflow.org) | Open‑source platform for machine learning and deep learning. |
+| Testim | [testim.io](https://testim.io) | AI-powered functional testing that self-heals when UI changes. |
 | Weights & Biases | [wandb.ai](https://wandb.ai) | ML experiment tracking and collaboration tool. |
 | Windsurf | [windsurf.ai](https://windsurf.ai) | AI‑powered code generation and refactoring. |
 | Wolfram Alpha | [wolframalpha.com](https://wolframalpha.com) | Computational knowledge engine with AI‑powered math and science tools. |
 | Zeno | [zeno.com](https://zeno.com) | AI assistant for debugging and improving code. |
+
+## 📚 AI Documentation & Knowledge Tools
+
+| Name | URL | Description |
+| ---------------------- | -------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| DocuWriter | [docuwriter.ai](https://docuwriter.ai) | Automatically generates code documentation and comments using AI. |
+| Mintlify | [mintlify.com](https://mintlify.com) | AI-powered documentation platform for writing, hosting, and managing API docs and developer guides. |
 
 ## 📋 Productivity & Workspace Tools
 
@@ -60,6 +74,7 @@ List of AI tools for various tasks. This list is (obviously) not comprehensive.
 | Motion | [usemotion.com](https://usemotion.com) | AI calendar and task automation tool. |
 | Notion AI | [notion.so/product/ai](https://notion.so/product/ai) | AI‑enhanced workspace for notes, docs, and task automation. |
 | Otter.ai | [otter.ai](https://otter.ai) | AI transcription tool for meetings and lectures. |
+| Remio | [remio.ai](https://remio.ai/) | Local-first AI memory and knowledge base desktop app that parses files, webpages, recordings, emails, messages, images, and notes into local indexes and vectors for focused personal-context retrieval. |
 | Reclaim.ai | [reclaim.ai](https://reclaim.ai) | Smart calendar assistant for time blocking and task planning. |
 | RescueTime | [rescuetime.com](https://rescuetime.com) | AI‑powered time tracking and productivity insights. |
 | Superhuman | [superhuman.com](https://superhuman.com) | AI‑powered email client for faster communication. |
@@ -68,9 +83,8 @@ List of AI tools for various tasks. This list is (obviously) not comprehensive.
 | Todoist AI | [todoist.com](https://todoist.com) | Smart task prioritization with AI suggestions. |
 | x.ai (Grok) | [x.ai](https://x.ai) | AI assistant for scheduling and answering questions based on X (Twitter). |
 | Zapier AI | [zapier.com](https://zapier.com) | Connects apps and automates workflows using AI triggers. |
-| Zoom AI Companion | [zoom.us](https://zoom.us) | AI meeting assistant for summaries, action items, and transcription. |
 | Zoho Zia | [zoho.com/zia](https://zoho.com/zia) | AI assistant for CRM, analytics, and business automation. |
-| Grammarly | [grammarly.com](https://grammarly.com) | AI writing assistant for grammar, tone, and clarity. |
+| Zoom AI Companion | [zoom.us](https://zoom.us) | AI meeting assistant for summaries, action items, and transcription. |
 
 ## 🎨 Design & Creativity Tools
 
@@ -96,6 +110,21 @@ List of AI tools for various tasks. This list is (obviously) not comprehensive.
 | Synthesys | [synthesys.io](https://synthesys.io) | AI avatars and voiceovers for video creation. |
 | Tome | [tome.app](https://tome.app) | AI storytelling platform for presentations and pitches. |
 | Visme | [visme.co](https://visme.co) | AI‑powered presentation and infographic design tool. |
+
+## 🎥 AI Video & Avatar Tools
+
+| Name | URL | Description |
+| -------------------------- | --------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| HeyGen | [heygen.com](https://heygen.com) | AI-powered talking avatar and video generation from text or scripts. |
+| Pika | [pika.art](https://pika.art) | AI video generation from text prompts and images. |
+| Synthesia | [synthesia.io](https://synthesia.io) | Create professional AI videos with digital avatars – no cameras or actors needed. |
+
+## 🎵 AI Music & Sound Generation
+
+| Name | URL | Description |
+| -------------------------- | --------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| Suno | [suno.com](https://suno.com) | AI music generation that creates original songs with vocals from text prompts. |
+| Udio | [udio.com](https://udio.com) | AI music generator with fine-grained control over genre, mood, and instrumentation. |
 
 ## ✍️ Writing & Content Creation Tools
 
@@ -137,17 +166,33 @@ List of AI tools for various tasks. This list is (obviously) not comprehensive.
 | Resemble.ai | [resemble.ai](https://resemble.ai) | Voice cloning and synthesis for custom AI voices. |
 | Voicemod | [voicemod.net](https://voicemod.net) | Real‑time voice changer and soundboard powered by AI. |
 
-## Other AI Tools
+## 🛠️ Other AI Tools And Backends
 
 | Name | URL | Description |
 | ---------- | ---------------------------------------------- | ------------------------------------------------------- |
-| AI Tools Radar | [https://aitoolsradar.com](https://aitoolsradar.com) | AI tools directory and industry news platform for discovering, comparing, and tracking AI products. |
-| OpenRouter | [https://openrouter.ai](https://openrouter.ai) | Aggregator for multiple AI models, free and paid tiers. |
-| LmStudio.ai | [https://lmstudio.ai/](https://lmstudio.ai/) | Local environment for running and developing language models. |
-| Kaggle | [https://www.kaggle.com/](https://www.kaggle.com/) | Data science competition & ML dataset platform. |
+| AI Tools Radar | [aitoolsradar.com](https://aitoolsradar.com/) | Multilingual AI tools directory and editorial platform for discovering and comparing AI products. |
+| Caveman | [https://github.com/JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | why use many tokens when few token do trick — Claude Code skill to reduce token usage |
 | GAIA (AMD) | [https://github.com/amd/gaia](https://github.com/amd/gaia) | AMD’s open‑source framework for machine learning. |
-| OLLAMA | [https://ollama.com/search?q=code](https://ollama.com/search?q=code) | AI Tool |
+| Groq | [groq.com](https://groq.com) | Ultra-fast inference for open-source LLMs (Mixtral, Llama, etc.) with a developer-friendly API. |
+| Lemonade Server | [lemonade-server.ai](https://lemonade-server.ai) | AI platform for building and deploying machine learning models. |
 | LLAMA | [https://www.llama.com/](https://www.llama.com/) | Meta's AI Tooling |
 | LLAMACPP | [https://github.com/ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | LLM inference in C/C++ |
 | LLAMASharp | [https://github.com/SciSharp/LLamaSharp](https://github.com/SciSharp/LLamaSharp) | LLamaSharp is a cross-platform library to run 🦙LLaMA/LLaVA |
 | Z.ai | [z.ai/](https://z.ai/blog/glm-5/) | AI‑powered search and knowledge graph platform. |
+| LmStudio.ai | [https://lmstudio.ai/](https://lmstudio.ai/) | Local environment for running and developing language models. |
+| OLLAMA | [https://ollama.com/search?q=code](https://ollama.com/search?q=code) | AI Tool |
+| OpenRouter | [https://openrouter.ai](https://openrouter.ai) | Aggregator for multiple AI models, free and paid tiers. |
+| Together AI | [together.ai](https://together.ai) | Platform for training, fine-tuning, and running open-source models at scale. |
+
+## 🔬 AI Research & Model Creators
+
+| Name | URL | Description |
+| ---------- | ---------------------------------------------- | ------------------------------------------------------- |
+| AMD | [https://www.amd.com/en/technologies/ai](https://www.amd.com/en/technologies/ai) | AMD's AI research and model development platform. |
+| Artificial Analysis | [https://artificialanalysis.com/](https://artificialanalysis.com/) | Independent analysis of AI. Understand the AI landscape to choose the best model and provider for your use case. |
+| BAIDU | [https://huggingface.co/baidu](https://huggingface.co/baidu) | Baidu's AI research and model development platform. |
+| DeepReinforce | [https://huggingface.co/deepreinforce-ai](https://huggingface.co/deepreinforce-ai) | AI research and model development by DeepReinforce. - Orinth Models |
+| EmperorAI | [empero.org](https://empero.org/) | AI research and model development by EmperorAI. |
+| Kaggle | [https://www.kaggle.com/](https://www.kaggle.com/) | Data science competition & ML dataset platform. |
+| NVIDIA | [https://developer.nvidia.com/](https://developer.nvidia.com/) | NVIDIA's AI research and model development platform. |
+| Unsloth | [unsloth.ai](https://unsloth.ai/) | AI research and model development by Unsloth. |

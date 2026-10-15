@@ -1,0 +1,136 @@
+Name,URL,Description
+ChatGPT,https://openai.com/chatgpt,Conversational AI for natural language understanding and generation.
+Claude,https://claude.ai,AI assistant by Anthropic focused on helpful and harmless responses.
+Copilot (me!),https://copilot.microsoft.com,"Microsoft’s AI companion for productivity, creativity, and conversation."
+DeepSeek,https://deepseek.com,AI assistant with strong coding and reasoning capabilities.
+Google Gemini,https://gemini.google.com,Google's conversational AI assistant.
+Grok (xAI),https://x.ai,Elon Musk’s AI assistant for real‑time data and trending topics.
+Open Claw,https://openclaw.ai,"Clears your inbox, sends emails, manages your calendar, checks you in for flights. All from WhatsApp, Telegram, or any chat app you already use."
+Perplexity,https://perplexity.ai,AI‑powered search engine with conversational answers.
+Pi,https://heypi.com,Personal AI companion focused on emotional intelligence.
+Poe.com,https://poe.com/,Offers free daily credits for premium models like Claude 4 or o4‑mini.
+Replika,https://replika.com,AI companion for emotional support and conversation.
+YouChat,https://you.com,AI chatbot integrated into the You.com search engine.
+Z.ai,https://z.ai/blog/glm-5/,AI‑powered search and knowledge graph platform.
+Adalo,https://adalo.com,No‑code app builder with AI‑powered templates.
+Amazon CodeWhisperer,https://aws.amazon.com/codewhisperer,AI coding assistant for AWS developers.
+Anyscale,https://anyscale.com,Scalable platform for deploying Python AI apps.
+Claude Code,https://claude.com/product/claude-code,"Work with Claude directly in your terminal. Claude explores your codebase context, answers questions, and make changes. It can even use all your CLI tools."
+CodeRabbit,https://coderabbit.ai,AI-powered code review bot providing context-aware feedback on pull requests.
+CodiumAI,https://codium.ai,AI tool for generating meaningful tests for your code.
+Cursor,https://cursor.sh,AI‑powered code editor with natural language support.
+GitHub Copilot,https://github.com/features/copilot,AI pair programmer that suggests code in real‑time.
+Hugging Face,https://huggingface.co,Open‑source AI models and datasets for developers.
+Intel Geti,https://geti.intel.com,AI platform for training computer vision models.
+LLM Studio,https://llmstudio.com,Platform for training and deploying large language models.
+Lobe,https://lobe.ai,Visual tool for building machine learning models without code.
+Mabl,https://mabl.com,AI-native test automation platform for end-to-end testing and monitoring.
+OpenAI Codex,https://openai.com/codex/,"From routine pull requests to your hardest problems, Codex reliably completes tasks end to end, like building features, complex refactors, migrations, and more, powered by OpenAI’s frontier coding models."
+OpenCode,https://opencode.ai,The open source AI coding agent
+OpenCV AI Kit,https://opencv.ai,Hardware and software platform for computer vision applications.
+Qwen3 Coder,https://qwen.qingyunai.com/,New coder‑focused model on web by Qwen.
+Replit Ghostwriter,https://replit.com,AI coding assistant built into Replit IDE.
+Roboflow,https://roboflow.com,Computer vision platform for labeling and training models.
+Spell,https://spell.run,End‑to‑end platform for training and deploying deep learning models.
+Stack AI,https://stack-ai.com,Build AI workflows without writing code.
+Tabnine,https://tabnine.com,AI code completion tool for multiple languages.
+TensorFlow,https://tensorflow.org,Open‑source platform for machine learning and deep learning.
+Testim,https://testim.io,AI-powered functional testing that self-heals when UI changes.
+Weights & Biases,https://wandb.ai,ML experiment tracking and collaboration tool.
+Windsurf,https://windsurf.ai,AI‑powered code generation and refactoring.
+Wolfram Alpha,https://wolframalpha.com,Computational knowledge engine with AI‑powered math and science tools.
+Zeno,https://zeno.com,AI assistant for debugging and improving code.
+DocuWriter,https://docuwriter.ai,Automatically generates code documentation and comments using AI.
+Mintlify,https://mintlify.com,"AI-powered documentation platform for writing, hosting, and managing API docs and developer guides."
+Airtable AI,https://airtable.com,AI‑enhanced database and spreadsheet platform for teams.
+Beautiful.ai,https://beautiful.ai,AI‑powered presentation design tool.
+ClickUp AI,https://clickup.com,AI assistant for task management and productivity.
+Clockwise,https://getclockwise.com,AI calendar optimizer for better meeting scheduling.
+Copilot (me!),https://copilot.microsoft.com,"Microsoft’s AI companion for productivity, creativity, and conversation."
+Evernote AI,https://evernote.com,AI‑powered note‑taking and organization.
+Motion,https://usemotion.com,AI calendar and task automation tool.
+Notion AI,https://notion.so/product/ai,"AI‑enhanced workspace for notes, docs, and task automation."
+Otter.ai,https://otter.ai,AI transcription tool for meetings and lectures.
+Reclaim.ai,https://reclaim.ai,Smart calendar assistant for time blocking and task planning.
+RescueTime,https://rescuetime.com,AI‑powered time tracking and productivity insights.
+Superhuman,https://superhuman.com,AI‑powered email client for faster communication.
+Taskade,https://taskade.com,AI‑powered task manager and collaboration platform.
+TimeHero,https://timehero.com,AI scheduling assistant for teams and individuals.
+Todoist AI,https://todoist.com,Smart task prioritization with AI suggestions.
+x.ai (Grok),https://x.ai,AI assistant for scheduling and answering questions based on X (Twitter).
+Zapier AI,https://zapier.com,Connects apps and automates workflows using AI triggers.
+Zoho Zia,https://zoho.com/zia,"AI assistant for CRM, analytics, and business automation."
+Zoom AI Companion,https://zoom.us,"AI meeting assistant for summaries, action items, and transcription."
+Adobe Firefly,https://adobe.com,AI‑powered image generation inside Adobe Creative Cloud.
+Artbreeder,https://artbreeder.com,AI tool for blending and evolving images and portraits.
+Canva Magic,https://canva.com,"AI tools for design, writing, and image generation within Canva."
+ClipDrop,https://clipdrop.co,AI‑powered image editing and background removal.
+DALL·E 2,https://openai.com/dall-e,Generates realistic images from natural language descriptions.
+Deep Dream Generator,https://deepdreamgenerator.com,Creates surreal and artistic images using neural networks.
+Fotor,https://fotor.com,AI photo editing and design platform.
+Leonardo.ai,https://leonardo.ai,AI image generation for game assets and concept art.
+Lumen5,https://lumen5.com,AI video creation from blog posts and articles.
+MidJourney,https://midjourney.com,AI‑powered image generation from text prompts.
+Pictory,https://pictory.ai,Turns long‑form content into short videos using AI.
+Playground AI,https://playgroundai.com,Free AI image generator with style control.
+Prisma,https://prisma-ai.com,Turns photos into artwork using AI filters.
+Remove.bg,https://remove.bg,Instantly removes backgrounds from images using AI.
+Runway ML,https://runwayml.com,Creative toolkit for AI‑powered video editing and effects.
+Simplified,https://simplified.com,AI design and content creation platform.
+Stable Diffusion,https://stability.ai,Open‑source text‑to‑image generation model.
+Synthesys,https://synthesys.io,AI avatars and voiceovers for video creation.
+Tome,https://tome.app,AI storytelling platform for presentations and pitches.
+Visme,https://visme.co,AI‑powered presentation and infographic design tool.
+HeyGen,https://heygen.com,AI-powered talking avatar and video generation from text or scripts.
+Pika,https://pika.art,AI video generation from text prompts and images.
+Synthesia,https://synthesia.io,Create professional AI videos with digital avatars – no cameras or actors needed.
+Suno,https://suno.com,AI music generation that creates original songs with vocals from text prompts.
+Udio,https://udio.com,"AI music generator with fine-grained control over genre, mood, and instrumentation."
+Anyword,https://anyword.com,AI copywriting tool optimized for conversions and performance.
+Bertha.ai,https://bertha.ai,AI writing assistant for WordPress and web content.
+Copy.ai,https://copy.ai,AI tool for generating marketing and sales copy.
+Frase,https://frase.io,AI content optimization and SEO writing assistant.
+Grammarly,https://grammarly.com,"AI writing assistant for grammar, tone, and clarity."
+Jasper,https://jasper.ai,"AI writing assistant for marketing copy, blogs, and more."
+Kuki Chat,https://kuki.ai,AI chatbot with personality for entertainment and writing.
+Neuroflash,https://neuroflash.com,AI content generator with tone and SEO control.
+ParagraphAI,https://paragraphai.com,"AI writing tool for emails, essays, and replies."
+Peppertype.ai,https://peppertype.ai,"AI content creation for blogs, ads, and social media."
+Quillbot,https://quillbot.com,AI paraphrasing and grammar checking tool.
+Rytr,https://rytr.me,"AI writing assistant for blogs, emails, and ads."
+Scalenut,https://scalenut.com,AI SEO and content marketing platform.
+ShortlyAI,https://shortlyai.com,AI writing assistant for long‑form content.
+Sudowrite,https://sudowrite.com,AI tool for creative writing and storytelling.
+Texta.ai,https://texta.ai,AI content generator for articles and product descriptions.
+Thundercontent,https://thundercontent.com,AI writing tool for multilingual content creation.
+Typli.ai,https://typli.ai,AI writing and SEO assistant.
+Wordtune,https://wordtune.com,AI tool for rewriting and improving sentences.
+Writesonic,https://writesonic.com,"AI content generator for blogs, ads, and product descriptions."
+Altered Studio,https://altered.ai,AI voice changer and dubbing platform for creators.
+Cleanvoice,https://cleanvoice.ai,"Removes filler words, stutters, and noise from audio recordings."
+Descript,https://descript.com,Audio and video editing with transcription and overdub features.
+ElevenLabs,https://elevenlabs.io,High‑quality AI voice synthesis and cloning.
+Krisp,https://krisp.ai,AI noise cancellation for calls and recordings.
+Listnr,https://listnr.tech,AI voice generator for podcasts and videos.
+Murf.ai,https://murf.ai,Realistic AI voiceovers for podcasts and videos.
+Play.ht,https://play.ht,AI text‑to‑speech platform with lifelike voices.
+Resemble.ai,https://resemble.ai,Voice cloning and synthesis for custom AI voices.
+Voicemod,https://voicemod.net,Real‑time voice changer and soundboard powered by AI.
+GAIA (AMD),https://github.com/amd/gaia,AMD’s open‑source framework for machine learning.
+Groq,https://groq.com,"Ultra-fast inference for open-source LLMs (Mixtral, Llama, etc.) with a developer-friendly API."
+Lemonade Server,https://lemonade-server.ai,AI platform for building and deploying machine learning models.
+LLAMA,https://www.llama.com/,Meta's AI Tooling
+LLAMACPP,https://github.com/ggml-org/llama.cpp,LLM inference in C/C++
+LLAMASharp,https://github.com/SciSharp/LLamaSharp,LLamaSharp is a cross-platform library to run 🦙LLaMA/LLaVA
+LmStudio.ai,https://lmstudio.ai/,Local environment for running and developing language models.
+OLLAMA,https://ollama.com/search?q=code,AI Tool
+OpenRouter,https://openrouter.ai,"Aggregator for multiple AI models, free and paid tiers."
+Together AI,https://together.ai,"Platform for training, fine-tuning, and running open-source models at scale."
+AMD,https://www.amd.com/en/technologies/ai,AMD's AI research and model development platform.
+Artificial Analysis,https://artificialanalysis.com/,Independent analysis of AI. Understand the AI landscape to choose the best model and provider for your use case.
+BAIDU,https://huggingface.co/baidu,Baidu's AI research and model development platform.
+DeepReinforce,https://huggingface.co/deepreinforce-ai,AI research and model development by DeepReinforce. - Orinth Models
+EmperorAI,https://empero.org/,AI research and model development by EmperorAI.
+Kaggle,https://www.kaggle.com/,Data science competition & ML dataset platform.
+NVIDIA,https://developer.nvidia.com/,NVIDIA's AI research and model development platform.
+Unsloth,https://unsloth.ai/,AI research and model development by Unsloth.
