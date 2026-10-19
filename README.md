@@ -74,6 +74,7 @@ List of AI tools for various tasks. This list is (obviously) not comprehensive.
 | Motion | [usemotion.com](https://usemotion.com) | AI calendar and task automation tool. |
 | Notion AI | [notion.so/product/ai](https://notion.so/product/ai) | AI‑enhanced workspace for notes, docs, and task automation. |
 | Otter.ai | [otter.ai](https://otter.ai) | AI transcription tool for meetings and lectures. |
+| Pulse | [pulsecorp.co](https://pulsecorp.co) | AI-moderated market research platform that runs customer interviews at scale. |
 | Remio | [remio.ai](https://remio.ai/) | Local-first AI memory and knowledge base desktop app that parses files, webpages, recordings, emails, messages, images, and notes into local indexes and vectors for focused personal-context retrieval. |
 | Reclaim.ai | [reclaim.ai](https://reclaim.ai) | Smart calendar assistant for time blocking and task planning. |
 | RescueTime | [rescuetime.com](https://rescuetime.com) | AI‑powered time tracking and productivity insights. |
